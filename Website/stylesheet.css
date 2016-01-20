@@ -1,0 +1,62 @@
+body    {
+    margin: auto;
+    font-family: sans-serif;
+    background-color: dimgray;
+}
+
+nav.navigation  {
+    background: linear-gradient(dimgray, black);
+}
+
+ul.navigation {
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 35px;
+    padding-top: 15px;
+}
+
+li.navigation {
+    display: inline-block;
+}
+
+a.navigation    {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+div.logo    {
+    float: right;
+}
+
+img.logo    {
+    margin-top: -50px;
+    margin-right: 100px;
+    width: 120px;
+    height: 120px;
+}
+
+main    {
+    width: 100%;
+    margin: auto;
+}
+
+div.welkom  {
+    padding: 30px;
+    width: 100%%;
+    padding-top: 25px;
+    background-color: cornflowerblue;
+}
+
+h1  {
+    margin-top: 0;
+}
+
+article {
+    padding: 30px;
+    width: 75%;
+}
+
+a.article   {
+    color: cornflowerblue;
+}

@@ -1,0 +1,297 @@
+body    {
+    margin: auto;
+    font-family: sans-serif;
+    background: linear-gradient(to bottom right, #717171, #323232);
+}
+
+header  {
+    position: absolute;
+    width: 100%;
+}
+
+p   {
+    color: white;
+}
+
+nav.navigation  {
+    background: linear-gradient(dimgray, black);
+}
+
+ul.navigation {
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 35px;
+    padding-top: 15px;
+}
+
+li.navigation {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+a.navigation    {
+    text-decoration: none;
+    color: white;
+}
+
+a.navigation2    {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #791e86;
+}
+
+div.logo    {
+    float: right;
+}
+
+img.logo    {
+    margin-top: -50px;
+    margin-right: 100px;
+    width: 120px;
+    height: 120px;
+}
+
+main {
+    width: 100%;
+    margin: auto;
+}
+
+div.welkom  {
+    padding: 100px 0 30px 0px;
+    width: 100%;
+    background-color: #791e86;
+}
+
+h1.pagetitle {
+    margin-left: 50px;
+}
+
+article {
+    padding-bottom: 50px;
+}
+
+h1  {
+    margin-top: 0;
+    color: white;
+}
+
+h3  {
+    font-family: arial, halvetica, sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+div.articles {
+    margin-left: 12.5%;
+    padding: 30px;
+    width: 75%;
+}
+
+div.articles2 {
+    margin-left: 12.5%;
+    padding: 30px;
+    width: 75%;
+    height: 355px;
+}
+
+div.articles3 {
+    margin: auto;
+    padding: 30px;
+    width: 75%;
+    height: 355px;
+}
+
+a.article   {
+    color: darkturquoise;
+}
+
+footer  {
+    background-color: #791e86;
+    margin: 0;
+}
+
+label   {
+    color: white;
+}
+
+main.registreren    {
+    height: 880px;
+}
+
+div.register {
+    padding-top: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+div.register input,
+div.register label
+{
+    margin: 0 auto;
+}
+
+iframe  {
+    margin-top: 30px;
+    width: 75%;
+    height: 400px;
+    margin-left: 12.5%;
+}
+
+#info1  {
+    width: 37.5%;
+    margin-left: 12.5%;
+    margin-right: 0;
+    float: left;
+}
+
+#info2  {
+    width: 37.5%;
+    margin-right: 12.5%;
+    float: right;
+}
+
+#info3  {
+    margin-top : 400px;
+}
+
+#info4  {
+    margin-bottom: 0;
+}
+
+#info5  {
+    margin-top: 24px;
+}
+
+input[type="text"] {
+    display: block;
+    margin: 0;
+    width: 400px;
+    font-family: sans-serif;
+    font-size: 18px;
+    appearance: none;
+    box-shadow: none;
+    border-radius: 50px;
+    padding-left: 10px;
+}
+
+input[type="password"] {
+    display: block;
+    margin: 0;
+    width: 400px;
+    font-family: sans-serif;
+    font-size: 18px;
+    appearance: none;
+    box-shadow: none;
+    border-radius: 50px;
+    padding-left: 10px;
+}
+
+ul.footer  {
+     width: 400px;
+     margin: 0 0 0 50px;
+     padding: 20px 0 20px 20px;
+    display: inline-block;
+    color: white;
+}
+
+
+li.footert {
+     text-decoration: none;
+     display: block;
+     font-family: sans-serif;
+     font-size: 14px;
+}
+
+li.footerh {
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+ul.footerfix
+{
+    width: 400px;
+    margin: 0 0 0 50px;
+    padding: 20px 0 20px 20px;
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: -32px;
+}
+
+ul.footerfix2
+{
+    width: 400px;
+    margin: 0 0 0 50px;
+    padding: 20px 0 20px 20px;
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: -96px;
+}
+
+form.afspraak   {
+    width: 400px;
+}
+
+img.socialmedia {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 39px;
+}
+
+img.footeri {
+    height: 100px;
+    width: 100px;
+}
+
+p.error {
+    color: red;
+}
+
+textarea    {
+    height: 600px;
+    width: 1400px;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+a.footlink   {
+    color: white;
+}
+
+tr.afspraak {
+    color: white;
+}
+
+tr.afspraakh    {
+    color: white;
+    font-weight: bold;
+}
+
+td.c1   {
+    width: 300px;
+    padding: 10px 0;
+}
+
+td.c2   {
+    width: 100px;
+}
+
+td.c3   {
+    width: 100px;
+}
+
+td.c4   {
+    color:darkturquoise;
+}
